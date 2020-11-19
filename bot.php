@@ -634,7 +634,7 @@ if(!is_null($events)){
                                             'EP.07',
                                             'DAX ตอนที่ 1',
                                             'https://bcplineoa.bangchak.co.th/powerbi-club/uploadimage/c1.png',
-                                            $actionBuilder5
+                                            $actionBuilder7
                                         ),                                          
                                     )
                                 )
